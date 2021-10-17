@@ -1,1 +1,1 @@
-# Le site des commandes du panda est opensource!
+# Le site des commandes est opensource!
