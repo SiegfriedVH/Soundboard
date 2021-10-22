@@ -99,6 +99,11 @@ html {
   color: #e6dcdc;
 }
 
+.sound-container.kaamelott{
+  background-color: #cf5252;
+  color: #e6dcdc;
+}
+
 .uk-subnav-pill>*>a{
   border-bottom: 1px solid transparent;
 }
